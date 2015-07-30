@@ -2,6 +2,7 @@
    Second Admission Challenge : Step 2 where inventory 
    	is tracked through an object as opposed to plain old HTML
 */
+/* EXTRA */
 
 /* Global object */
 var inventory = {
